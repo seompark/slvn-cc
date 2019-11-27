@@ -8,7 +8,7 @@ dust_sensor = SDS011(os.environ['SDS011_SERIAL_PORT'])
 dht = DHT22(board.D18)
 
 app = Flask(__name__)
-
+dust_sensor.sleep(sleep=False)
 
 @app.route('/', methods=['GET'])
 def status():
