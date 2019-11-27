@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "43bd537c3fc882290d2a22dd03b9e7e380f580cc47153c8883d010397f1ac64d"
+            "sha256": "395081d6c533f2478b4544c2ca8bf7489ad16761803cf92600f80e8c585c4bf7"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -31,14 +31,12 @@
         },
         "adafruit-platformdetect": {
             "hashes": [
-                "sha256:28bac03aa60473baa48f35c4c9d8d8e81a4e23e13d69aa3fe3bfe7c0dfba6ef0",
                 "sha256:5c9409209ca4d55082cf356dc9226824a654e0cb63f01ee2dbfa532d9625a6e8"
             ],
             "version": "==1.3.6"
         },
         "adafruit-pureio": {
             "hashes": [
-                "sha256:246181ff0aebebabbd2e53816009ab5ec92a94383094c4669e4c2bdaf6f96508",
                 "sha256:e65cd929f1d8e109513ed1e457c2742bf4f15349c1a9b7f5b1e04191624d7488"
             ],
             "version": "==0.2.3"
