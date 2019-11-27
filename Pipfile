@@ -1,0 +1,16 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "==2.4.4"
+
+[packages]
+py-sds011 = "==0.9"
+apscheduler = "==3.6.3"
+flask = "==1.1.1"
+adafruit-circuitpython-dht = "==3.2.4"
+
+[requires]
+python_version = "3.6"
