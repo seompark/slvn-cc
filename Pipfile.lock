@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "395081d6c533f2478b4544c2ca8bf7489ad16761803cf92600f80e8c585c4bf7"
+            "sha256": "2d9d390c3165ab40064abba6a9c43c181a3b9545d524437ac070b068d0c3165a"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -18,9 +18,9 @@
     "default": {
         "adafruit-blinka": {
             "hashes": [
-                "sha256:d14e321208fdfbd5ae174f71113efca451dc3fc837ee32223431a5f2c49a0e2b"
+                "sha256:224c6137a6cf620ef01c8fc17d64b6d787df6a23d371d732c2e77833e4991053"
             ],
-            "version": "==3.0.4"
+            "version": "==3.0.5"
         },
         "adafruit-circuitpython-dht": {
             "hashes": [
@@ -162,6 +162,13 @@
             ],
             "version": "==2.3.3"
         },
+        "autopep8": {
+            "hashes": [
+                "sha256:4d8eec30cc81bc5617dbf1218201d770dc35629363547f17577c61683ccfb3ee"
+            ],
+            "index": "pypi",
+            "version": "==1.4.4"
+        },
         "colorama": {
             "hashes": [
                 "sha256:05eed71e2e327246ad6b38c540c4a3117230b19679b875190486ddd2d721422d",
@@ -209,6 +216,13 @@
                 "sha256:dd8d182285a0fe56bace7f45b5e7d1a6ebcbf524e8f3bd87eb0f125271b8831f"
             ],
             "version": "==0.6.1"
+        },
+        "pycodestyle": {
+            "hashes": [
+                "sha256:95a2219d12372f05704562a14ec30bc76b05a5b297b21a5dfe3f6fac3491ae56",
+                "sha256:e40a936c9a450ad81df37f549d676d127b1b66000a6c500caa2b085bc0ca976c"
+            ],
+            "version": "==2.5.0"
         },
         "pylint": {
             "hashes": [
